@@ -1,2 +1,2 @@
-# arquivo-html5
+# arquivos-html5
 Arquivos do Curso de HTML e CSS do Curso em Vídeo
