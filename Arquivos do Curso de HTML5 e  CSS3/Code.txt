@@ -1,0 +1,2 @@
+<p style= "text-align: justify; text-indent: 50px">O <span style="font-weight: none;"> 
+background-image: url("fundo.jpg");
